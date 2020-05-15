@@ -2,3 +2,6 @@ polyglot
 pycld2
 pyicu
 wordcloud
+geopy
+pycountry
+plotly
